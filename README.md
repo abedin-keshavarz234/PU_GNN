@@ -27,7 +27,7 @@ numpy 1.19
 pandas 1.1.3
 
 Usage
- You can access the data from the GitHub link. When using this code, you need to clone this repo and load all the files in the folder into your running environment first. Then, Copy the PU_GNN_ run.py file and run it in your environment. All the files you want are in the project folder.
-In the google colab environment, you can run the program by saving the (project folder) in the google drive environment.
+ You can access the data from the GitHub link. When using this code, you need to clone this repo and load all the files in the folder into your running environment first. Then, Copy the PU_GNN_ run.py file and run it in your environment. All the files you want are in the (project folder).
+In the google colab environment, you can run the program by saving the project folder in the google drive environment.
 Then copy and run the PU_GNN_ run_DS2 file in the google colab environment
 
