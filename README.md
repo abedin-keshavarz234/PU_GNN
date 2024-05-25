@@ -15,8 +15,8 @@ This repository provides a framework of three stages that combine several drug f
  ![image](https://github.com/mali1790/PU_GNN/assets/76855169/7b4dbfee-4af9-4f6a-8aab-cfcc1328e247)
 
 3. Predicting simultaneous side effects of drug pairs using a Graph Neural Network model: Our method predicts polypharmacy between two drugs efficiently using a neural graph network-based model.
-4. 
- ![Uploading image.png…]()
+
+![Uploading image.png…]()
 
  We implement this model, which enables this model to be trained with GPUs. For additional details, read the published article for this work through this link.
 
