@@ -4,6 +4,7 @@ PU- GNN
 This repository provides a framework of three stages that combine several drug features to predict DDS-associated events, using attributed heterogeneous networks and multiple deep neural networks. 
 
  PU-GNN involves three main steps: 
+![Uploading abs01.PNG…]()
 
 
 1-Dimensionality reduction to extract optimal features: By reducing the feature dimensions, we aim to capture the most effective features for model evaluation. 
