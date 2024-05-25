@@ -5,6 +5,7 @@ This repository provides a framework of three stages that combine several drug f
 
 
  PU-GNN involves three main steps: 
+ 
 1-Dimensionality reduction to extract optimal features: By reducing the feature dimensions, we aim to capture the most effective features for model evaluation. 
 
 
@@ -14,6 +15,7 @@ This repository provides a framework of three stages that combine several drug f
 
 3. Predicting simultaneous side effects of drug pairs using a Graph Neural Network model: Our method predicts polypharmacy between two drugs efficiently using a neural graph network-based model.
 
+![Uploading 32.PNG…]()
 
  We implement this model, which enables this model to be trained with GPUs. For additional details, read the published article for this work through this link.
 
