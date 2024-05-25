@@ -19,9 +19,13 @@ This repository provides a framework of three stages that combine several drug f
  We implement this model, which enables this model to be trained with GPUs. For additional details, read the published article for this work through this link.
 
 Environments
+
 Python 3.6.12 
+
 Tensorflow 2.1
+
 numpy 1.19
+
 pandas 1.1.3
 
 Usage
