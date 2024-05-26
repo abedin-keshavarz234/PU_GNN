@@ -12,7 +12,7 @@ This repository provides a framework of three stages that combine several drug f
 
 1-Dimensionality reduction to extract optimal features: By reducing the feature dimensions, we aim to capture the most effective features for model evaluation. 
 
-![g1](https://github.com/abedin-keshavarz234/PU_GNN/assets/76855169/8d762612-808e-471d-ac85-e4dd441687ab)
+![g11](https://github.com/abedin-keshavarz234/PU_GNN/assets/76855169/a140b402-84d8-4503-a35f-92565236b895)
 
 
 2-Addressing data uncertainty through positive unlabeled (PU) learning: We employ PU learning to identify positive and negative data from unlabeled data, reducing uncertainty and enhancing model accuracy. 
