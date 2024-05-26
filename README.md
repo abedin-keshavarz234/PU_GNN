@@ -20,9 +20,11 @@ This repository provides a framework of three stages that combine several drug f
 ![G2](https://github.com/abedin-keshavarz234/PU_GNN/assets/76855169/c38859f7-6f35-408e-a7c0-c3ae346f4a49)
 
 3. Predicting simultaneous side effects of drug pairs using a Graph Neural Network model: Our method predicts polypharmacy between two drugs efficiently using a neural graph network-based model.
-![G3](https://github.com/abedin-keshavarz234/PU_GNN/assets/76855169/2097b671-26d0-42a3-bfde-a6515e76f9a6)
 
-![q-all (1)](https://github.com/abedin-keshavarz234/PU_GNN/assets/76855169/a000dc6f-e97d-41db-ab7f-b7b37771d41c)
+![g3](https://github.com/abedin-keshavarz234/PU_GNN/assets/76855169/68bc2c12-d2b2-4142-afea-7e74008ad504)
+
+
+![q_all (1)](https://github.com/abedin-keshavarz234/PU_GNN/assets/76855169/5672f390-7b96-4e5e-b7f7-b00d5ca78ec0)
 
 
  We implement this model, which enables this model to be trained with GPUs. For additional details, read the published article for this work through this link.
